@@ -5,3 +5,10 @@ La règle 20-20-20 est une recommandation pour réduire la fatigue oculaire num�
 
 ## Fonctionnalités de l'application
 Cette application affiche un écran noir pendant 20 secondes toutes les 20 minutes, incitant l'utilisateur à regarder au loin pour reposer ses yeux et réduire la fatigue oculaire.  
+
+## Instructions d'utilisation
+1. Cloner le dépôt GitHub
+2. Installer les dépendances nécessaires : `pip install -r requirements.txt`
+3. Lancer l'application : `python3 src/main.py`
+
+Pour lancer l'application au démarrage du système, modifier le chemin du script dans le fichier 20_20_20.desktop et copier ce fichier dans le répertoire `~/.config/autostart/`.

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=python3 /path/20_20_20/src/20_20_20.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=20-20-20
+Comment=Rappel toutes les 20 minutes
