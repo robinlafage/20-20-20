@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=python3 /path/20_20_20/src/20_20_20.py
+Exec=python3 /path/20_20_20/src/main.py
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
